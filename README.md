@@ -65,8 +65,8 @@ The model is a custom **Deep CNN** with the following structure:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/THATIPALLISAISHIVA/facial-emotion-recognition.git
-cd facial-emotion-recognition
+git clone https://github.com/THATIPALLISAISHIVA/facial-emotion-recognition-using-CNN.git
+cd facial-emotion-recognition-using-CNN
 ```
 
 ### 2. Install Dependencies
@@ -88,4 +88,5 @@ jupyter notebook "facial-emotion-recognition.ipynb"
 
 ## 📈 Results
 The model is trained on the filtered dataset to distinguish between happy, sad, and neutral expressions. The architecture involves heavy regularization (Dropout, Batch Normalization) to handle the variability in facial expressions effectively.
+
 
