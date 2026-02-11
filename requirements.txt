@@ -1,4 +1,4 @@
-# Core Deep Learning Frameworks
+# Core Deep Learning Frameworks 
 tensorflow==2.8.0
 keras==2.8.0
 
@@ -19,8 +19,8 @@ pillow==9.0.1
 scipy==1.7.3
 h5py==3.6.0
 
-# Optional but recommended for better performance
-# Uncomment if using GPU
+# Optional but recommended for better performance 
+# Uncomment if using GPU if not use keep it as it is
 # tensorflow-gpu==2.8.0
 
 # For Jupyter Notebook (if running in notebook environment)
